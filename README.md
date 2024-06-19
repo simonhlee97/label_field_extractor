@@ -56,10 +56,8 @@ Run the following command:
 
 (replace the "HEWITT_THURSDAY_C.pdf" with other PDF filenames)
 
-The script will create 3 new files. For example:
+The script will create a json file with the same file name. For example:
 
-- `HEWITT_THURSDAY_C.csv`
-- `HEWITT_THURSDAY_C.xml`
 - `HEWITT_THURSDAY_C.json`
 
 ## Resources and Links
