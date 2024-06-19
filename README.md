@@ -17,7 +17,7 @@ These steps will get you a copy of the python script so that you can run it on y
 
 Go to the url below:
 
-`https://github.com/5rivers/xml-parser-example.git`
+`https://github.com/simonhlee97/label_field_extractor`
 
 Click on the green Code dropdown button, and click `Download Zip`
 
