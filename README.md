@@ -1,4 +1,4 @@
-# A Python Script that Parses XML from a PDF file and Writes to CSV and JSON FIles
+# A Python Script that Parses XML from a PDF file and Write Selected Text to a JSON File
 
 This script reads the PDF file, extracts each page's id, part number, and serial number, then writes those values into a JSON file.
 
@@ -52,13 +52,13 @@ Move (or copy/paste) your PDF files into your project directory.
 
 Run the following command:
 
-`python label_field_extractor.py HEWITT_THURSDAY_C.pdf`
+`python label_field_extractor.py my_file.pdf`
 
-(replace the "HEWITT_THURSDAY_C.pdf" with other PDF filenames)
+(replace the "my_file.pdf" with your file name)
 
 The script will create a json file with the same file name. For example:
 
-- `HEWITT_THURSDAY_C.json`
+- `my_file.json`
 
 ## Resources and Links
 
